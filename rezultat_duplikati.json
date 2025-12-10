@@ -1,0 +1,56 @@
+{
+  "ukupno_dokumenata": 12,
+  "dokumenata_po_klasi": {
+    "IS": 4,
+    "US": 4,
+    "OT": 4
+  },
+  "duplikati": [
+    {
+      "klasa": "IS",
+      "plocica": "0605002394",
+      "broj_ponavljanja": 2,
+      "lokacije": [
+        {
+          "dokument_id": "40290575000001958",
+          "stavka_index": 0
+        },
+        {
+          "dokument_id": "40290575000001958",
+          "stavka_index": 2
+        }
+      ]
+    },
+    {
+      "klasa": "OT",
+      "plocica": "0605002394",
+      "broj_ponavljanja": 2,
+      "lokacije": [
+        {
+          "dokument_id": "40290575000001931",
+          "stavka_index": 0
+        },
+        {
+          "dokument_id": "40290575000001931",
+          "stavka_index": 2
+        }
+      ]
+    },
+    {
+      "klasa": "US",
+      "plocica": "0605002394",
+      "broj_ponavljanja": 2,
+      "lokacije": [
+        {
+          "dokument_id": "40290575000001984",
+          "stavka_index": 0
+        },
+        {
+          "dokument_id": "40290575000001984",
+          "stavka_index": 2
+        }
+      ]
+    }
+  ],
+  "ukupno_duplikata": 3
+}
